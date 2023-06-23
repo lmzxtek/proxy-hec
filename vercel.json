@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    {"source": "/(.*)", "destination": "https://www.hec.usace.army.mil/$1"}
+  ]
+}
